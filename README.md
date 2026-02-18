@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👨‍💻 Diego | @diegofm09 
 
-<!--
-**diegofm09/diegofm09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **Estudiante de Bachillerato en un camino de aprendizaje**
+>
+> Mi objetivo es estudiar **Ingeniería de Software** y especializarme en **Ciberseguridad Avanzada** con enfoque en **Ciberseguridad Cuantica**.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Mi Hoja de Ruta
+1. 🐍 **Dominar Python:** Construyendo bases sólidas de lógica y automatización. (Actual)
+2. 💻 **Expandir Lenguajes:** Aprender más lenguajes y arquitectura de software.
+3. 🛡️ **Especialización:** Empezar a aprender ciberseguridad para dar el salto a la Ciberseguridad avanzada y criptografía post-cuántica.
+
+
+## 🛠️ Herramientas
+- **Lenguajes:** Python (En proceso de aprendizaje).
+- **Idiomas:**
+  - 🇪🇦 **Español:** Nativo.
+  - 🇬🇧 **Inglés:** **C1 (Advanced)**
+- **Entorno:** VS Code, Git y GitHub para control de versiones.
+
+
+## ⚡ Sobre mí
+- 🏋️‍♂️ Disciplinado y comprometido con el **deporte** y los **hábitos saludables**.
+- 🎯 Constante ante los desafíos.
+- 📝 Con muchas ganas de aprender y emprender en algún momento.
+
+  
+## 📧 Contacto
+Puedes escribirme a: [**diegofermend@gmail.com**](mailto:diegofermend@gmail.com)
