@@ -2,13 +2,13 @@
 
 > **Estudiante de Bachillerato en un camino de aprendizaje**
 >
-> Mi objetivo es estudiar **Ingeniería de Software** y especializarme en **Ciberseguridad Avanzada** con enfoque en **Ciberseguridad Cuantica**.
+> Mi objetivo es estudiar **Ingeniería de Software** y especializarme en **Ciberseguridad Avanzada** e **IA**.
 
 
 ## 🚀 Mi Hoja de Ruta
 1. 🐍 **Dominar Python:** Construyendo bases sólidas de lógica y automatización. (Actual)
 2. 💻 **Expandir Lenguajes:** Aprender más lenguajes y arquitectura de software.
-3. 🛡️ **Especialización:** Empezar a aprender ciberseguridad para dar el salto a la Ciberseguridad avanzada y criptografía post-cuántica.
+3. 🛡️ **Especialización:** Empezar a aprender ciberseguridad para dar el salto a la Ciberseguridad avanzada e IA.
 
 
 ## 🛠️ Herramientas
