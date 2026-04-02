@@ -8,7 +8,7 @@
 ## 🚀 Mi Hoja de Ruta
 1. 🐍 **Dominar Python:** Construyendo bases sólidas de lógica y automatización. (Actual)
 2. 💻 **Expandir Lenguajes:** Aprender más lenguajes y arquitectura de software.
-3. 🛡️ **Especialización:** Empezar a aprender ciberseguridad para dar el salto a la Ciberseguridad avanzada e IA.
+3. 🛡️ **Especialización:** Empezar a aprender ciberseguridad para dar el salto a la Ciberseguridad de Cloud AI
 
 
 ## 🛠️ Herramientas
