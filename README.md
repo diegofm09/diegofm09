@@ -1,29 +1,28 @@
 # 👨‍💻 Diego | @diegofm09 
 
-> **Estudiante de Bachillerato en un camino de aprendizaje**
+> **STEM High School Student on a Learning Path**
 >
-> Mi objetivo es estudiar **Ingeniería de Software** y especializarme en **Ciberseguridad Avanzada** e **IA**.
+> My objective is to study **Computer Science** to specialize in **AI** and **Cloud** **Cybersecurity**.
 
 
-## 🚀 Mi Hoja de Ruta
-1. 🐍 **Dominar Python:** Construyendo bases sólidas de lógica y automatización. (Actual)
-2. 💻 **Expandir Lenguajes:** Aprender más lenguajes y arquitectura de software.
-3. 🛡️ **Especialización:** Empezar a aprender ciberseguridad para dar el salto a la Ciberseguridad de Cloud AI
+## 🚀 My Roadmap
+1. 🐍 **Master Python:** Building the foundations of programming and automation. (In progress)
+2. 💻 **Expand my stack:** Learn more languages and libraries to grow my knowledge.
+3. 🛡️ **Specialize:** Start learning about cybersecurity and getting certified in it to specialize in **Cloud and AI**
+
+## 🛠️ Tools
+- **Programming Languages:** Python (Learning it right now).
+- **Languages:**
+  - 🇪🇦 **Spanish:** Native.
+  - 🇬🇧 **English:** **C1 (Advanced)**
+- **Environment:** VS Code, Git and GitHub for version control.
 
 
-## 🛠️ Herramientas
-- **Lenguajes:** Python (En proceso de aprendizaje).
-- **Idiomas:**
-  - 🇪🇦 **Español:** Nativo.
-  - 🇬🇧 **Inglés:** **C1 (Advanced)**
-- **Entorno:** VS Code, Git y GitHub para control de versiones.
-
-
-## ⚡ Sobre mí
-- 🏋️‍♂️ Disciplinado y comprometido con el **deporte** y los **hábitos saludables**.
-- 🎯 Constante ante los desafíos.
-- 📝 Con muchas ganas de aprender y emprender en algún momento.
+## ⚡ About Me
+- 🏋️‍♂️ Disciplined and Committed to **fitness** and **healthy habits**.
+- 🎯 Resilient and consistent.
+- 📝 Driven to learn and looking to innovate or venture into entrepreneurship.
 
   
-## 📧 Contacto
-Puedes escribirme a: [**diegofermend@gmail.com**](mailto:diegofermend@gmail.com)
+## 📧 Contact
+You can contact me at: [**diegofermend@gmail.com**](mailto:diegofermend@gmail.com)
