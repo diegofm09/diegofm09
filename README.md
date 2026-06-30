@@ -2,7 +2,7 @@
 
 > **STEM High School Student on a Learning Path**
 >
-> My objective is to study **Computer Science** to specialize in **AI** or **Cybersecurity**.
+> My objective is to study **Computer Science** to specialize in **AI** or **Cybersecurity**
 
 
 ## 🚀 My Roadmap
