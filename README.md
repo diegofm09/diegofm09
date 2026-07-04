@@ -11,9 +11,9 @@
 3. 🛡️ **Specialize:** Start learning about cybersecurity and getting certified in it to specialize in **Cloud and AI**.
 
 ## 🛠️ Tools
-- **Programming Languages:** Python (Learning it right now).
+- **Programming Languages:** Python (Learning it right now)
 - **Languages:**
-  - 🇪🇦 **Spanish:** Native.
+  - 🇪🇦 **Spanish:** Native
   - 🇬🇧 **English:** **C1 (Advanced)**
 - **Environment:** VS Code, Git and GitHub for version control.
 
