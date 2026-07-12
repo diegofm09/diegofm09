@@ -8,7 +8,7 @@
 ## 🚀 My Roadmap
 1. 🐍 **Master Python:** Building the foundations of programming and automation. (In progress)
 2. 💻 **Expand my stack:** Learn more languages and libraries to grow my knowledge
-3. 🛡️ **Specialize:** Start learning about cybersecurity and getting certified in it to specialize in **Cloud and AI**.
+3. 🛡️ **Specialize:** Start learning about cybersecurity and getting certified in it to specialize in **Cloud and AI**
 
 ## 🛠️ Tools
 - **Programming Languages:** Python (Learning it right now)
