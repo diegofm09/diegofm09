@@ -3,12 +3,15 @@
 > **STEM High School Student on a Learning Path**
 >
 > My objective is to study **Computer Science** to specialize in high-impact fields like **AI**, **Cloud Cybersecurity** or **Quant development/Fintech**
+> 
+> 📈 **Also passionate about finance, markets, and investment strategies.** I love exploring how macroeconomics and data intersect with technology.
 
 
 ## 🚀 My Roadmap:
 1. 🐍 **Master Python:** Building the foundations of programming and automation. (In progress)
-2. 💻 **Expand my stack:** Learn more languages and libraries to grow my knowledge
-3. 🛡️ **Specialize:** Start learning about cybersecurity and getting certified in it to specialize in **Cloud and AI**.
+2. 💻 **Expand my stack:** Learn more languages and libraries to grow my knowledge.
+3. 🛡️ **Specialize:** Focus on a specific track to master it and embark on my professional career.
+4. 🚀 **Build & Launch:** Develop my own SaaS platform or tech startup to solve real-world problems.
 
 ## 🛠️ Tools
 - **Programming Languages:** Python (Learning it right now)
@@ -25,4 +28,4 @@
 
   
 ## 📧 Contact
-You can contact me at: [**diegofermend@gmail.com**](mailto:diegofermend@gmail.com)
+You can contact me at: [diegofermend@gmail.com](mailto:diegofermend@gmail.com)
