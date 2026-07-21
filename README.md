@@ -2,7 +2,7 @@
 
 > **STEM High School Student on a Learning Path**
 >
-> My objective is to study **Computer Science** to specialize in high-impact fields like **AI**, **Cloud Cybersecurity** or **Quant development/Fintech**
+> My objective is to study **Computer Science** to specialize in high-impact fields like **AI**, **Cloud Architect** or **Quant development/Fintech**
 > 
 > 📈 **Also passionate about finance, markets, and investment strategies.** I love exploring how macroeconomics and data intersect with technology.
 
