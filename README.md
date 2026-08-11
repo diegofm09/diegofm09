@@ -4,7 +4,7 @@
 >
 > My objective is to study **Computer Science** to specialize in high-impact fields like **AI**, **Cloud Architect**, **Quant development/Fintech** or **Cybersecurity**.
 > 
-> 📈 **Also passionate about finance, markets, and investment strategies.** I love exploring how macroeconomics and data intersect with technology.
+> 📈 **Also passionate about finance, markets, and investment strategies.** I love exploring how macroeconomics and data intersect with technology
 
 
 ## 🚀 My Roadmap:
