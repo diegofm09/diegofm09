@@ -18,7 +18,7 @@
 - **Languages:**
   - 🇪🇦 **Spanish:** Native
   - 🇬🇧 **English:** **C1 (Advanced)**
-- **Environment:** VS Code, Git and GitHub for version control.
+- **Environment:** VS Code, Git and GitHub for version control
 
 
 ## ⚡ About Me
