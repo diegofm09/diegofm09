@@ -24,7 +24,7 @@
 ## ⚡ About Me
 - 🏋️‍♂️ Disciplined and Committed to **fitness** and **healthy habits**
 - 🎯 Resilient and consistent
-- 📝 Driven to learn and looking to innovate or venture into entrepreneurship
+- 📝 Driven to learn and looking to innovate or venture into entrepreneurship.
 
   
 ## 📧 Contact
