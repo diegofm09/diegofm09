@@ -23,8 +23,8 @@
 ## ⚡ About Me
 - 🏋️‍♂️ Disciplined and Committed to **fitness** and **healthy habits**
 - 🎯 Resilient and consistent
-- 📝 Driven to learn and looking to innovate or venture into entrepreneurship.
-
+- 📝 Driven to learn and looking to innovate or venture into entrepreneurship
+  
   
 ## 📧 Contact
 You can contact me at: [diegofermend@gmail.com](mailto:diegofermend@gmail.com)
