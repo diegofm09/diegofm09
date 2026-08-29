@@ -6,7 +6,6 @@
 > 
 > 📈 **Also passionate about finance, markets, and investment strategies.** I love exploring how macroeconomics and data intersect with technology
 
-
 ## 🚀 My Roadmap:
 1. 🐍 **Master Python:** Building the foundations of programming and automation (In progress)
 2. 💻 **Expand my stack:** Learn more languages and libraries to grow my knowledge
